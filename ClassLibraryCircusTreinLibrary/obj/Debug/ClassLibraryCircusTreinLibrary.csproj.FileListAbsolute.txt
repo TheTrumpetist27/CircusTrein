@@ -1,0 +1,6 @@
+C:\Users\kbruy\source\repos\ConsoleAppCircusTrein\ClassLibraryCircusTreinLibrary\bin\Debug\ClassLibraryCircusTreinLibrary.dll
+C:\Users\kbruy\source\repos\ConsoleAppCircusTrein\ClassLibraryCircusTreinLibrary\bin\Debug\ClassLibraryCircusTreinLibrary.pdb
+C:\Users\kbruy\source\repos\ConsoleAppCircusTrein\ClassLibraryCircusTreinLibrary\obj\Debug\ClassLibraryCircusTreinLibrary.csproj.AssemblyReference.cache
+C:\Users\kbruy\source\repos\ConsoleAppCircusTrein\ClassLibraryCircusTreinLibrary\obj\Debug\ClassLibraryCircusTreinLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kbruy\source\repos\ConsoleAppCircusTrein\ClassLibraryCircusTreinLibrary\obj\Debug\ClassLibraryCircusTreinLibrary.dll
+C:\Users\kbruy\source\repos\ConsoleAppCircusTrein\ClassLibraryCircusTreinLibrary\obj\Debug\ClassLibraryCircusTreinLibrary.pdb

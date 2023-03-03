@@ -1,0 +1,11 @@
+C:\Users\kbruy\source\repos\ConsoleAppCircusTrein\ConsoleAppCircusTrein\bin\Debug\ConsoleAppCircusTrein.exe.config
+C:\Users\kbruy\source\repos\ConsoleAppCircusTrein\ConsoleAppCircusTrein\bin\Debug\ConsoleAppCircusTrein.exe
+C:\Users\kbruy\source\repos\ConsoleAppCircusTrein\ConsoleAppCircusTrein\bin\Debug\ConsoleAppCircusTrein.pdb
+C:\Users\kbruy\source\repos\ConsoleAppCircusTrein\ConsoleAppCircusTrein\bin\Debug\ClassLibraryCircusTreinLibrary.dll
+C:\Users\kbruy\source\repos\ConsoleAppCircusTrein\ConsoleAppCircusTrein\bin\Debug\ClassLibraryCircusTreinLibrary.pdb
+C:\Users\kbruy\source\repos\ConsoleAppCircusTrein\ConsoleAppCircusTrein\obj\Debug\ConsoleAppCircusTrein.csproj.AssemblyReference.cache
+C:\Users\kbruy\source\repos\ConsoleAppCircusTrein\ConsoleAppCircusTrein\obj\Debug\ConsoleAppCircusTrein.csproj.SuggestedBindingRedirects.cache
+C:\Users\kbruy\source\repos\ConsoleAppCircusTrein\ConsoleAppCircusTrein\obj\Debug\ConsoleAppCircusTrein.csproj.CoreCompileInputs.cache
+C:\Users\kbruy\source\repos\ConsoleAppCircusTrein\ConsoleAppCircusTrein\obj\Debug\ConsoleAppCircusTrein.csproj.CopyComplete
+C:\Users\kbruy\source\repos\ConsoleAppCircusTrein\ConsoleAppCircusTrein\obj\Debug\ConsoleAppCircusTrein.exe
+C:\Users\kbruy\source\repos\ConsoleAppCircusTrein\ConsoleAppCircusTrein\obj\Debug\ConsoleAppCircusTrein.pdb
